@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tarea 1 El preámbulo de la constitución"
-date: 2014-04-30
+date: 2020-08-21
 author: Juan Sebastián Clavijo Martínez
 last_modified_at:   2020-08-21 10:05:35 -0050
 ---
