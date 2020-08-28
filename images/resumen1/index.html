@@ -2,3 +2,225 @@
 layout: images
 title: Mapa resumen 1
 ---
+<HTML>
+<HEAD>
+  <TITLE>index.html</TITLE>
+  <meta NAME = "GENERATOR"          CONTENT = "IHMC CmapTools vr. 4.12 ">
+  <meta NAME = "KEYWORDS"           CONTENT = "Juan CLavijo, Mapa Conceptual, cmap, CmapTools, IHMC, capitulo2,  circunstancias en Vzla,  auge del cacao del s.XVIII,  cuestionamientos crecientes al sistema político español,  Arzobispo Antonio Caballero y góngora,  Parte 2: Antecedentes y precursores de la independencia,  mantener la base naval en cartagena,  preferencia de criollos para cargos públicos,  Juan Francisco Berbeo,  Revoluciones,  diversificación demográfica,  conquista bogotá,  Forma de vida,  monarquía,  Bogotá, Col,  Capitulo 2: Rompimiento de lazos con España (1781-1819),  sevilla,  revolución de los comuneros,  aguardiente,  criollos pobres y de ingresos medios,  derogación de nuvos impuestos">
+  <meta NAME = "DESCRIPTION"        CONTENT = "Este Cmap, tiene información relacionada con: capitulo2, protestas frente al alza de impuestos mantener la base naval en cartagena, Junta central en sevilla, Parte 2: Antecedentes y precursores de la independencia se destacan personajes, Capitulo 2: Rompimiento de lazos con España (1781-1819) Parte 4: La patria boba (1810-1816), Napoleón despone a Fernando VII, protestas frente al alza de impuestos ejemplos Arrancado de carteles, Revoluciones Francesa, realistas ejemplos Santa marta, Estímulos inestabilidad Política, Fracaso Quito, Ec (1809), Junta central se disuelve en 1810, sevilla mantiene su lealtad a Fernando VII, revolución de los comuneros conformada por mestizos, causas crecimiento, Estímulos se forma Junta central, Socorro, santander con una asamblea popular o común (de ahí el nombre), personajes Antonio Nariño, es liberada poco despues esto produce cambios en la estructura social, causas Rivalidades entre criollos y europeos, Ejercito mixto y Atravieza los andes y gana la batalla de boyacá">
+  <meta NAME = "AUTHOR"             CONTENT = "IHMC CmapTools">
+  <meta HTTP-EQUIV = "Content-Type" CONTENT = "text/html; charset = UTF-8">
+  <script LANGUAGE="JavaScript1.2">
+  <!--
+    //  PopUp --
+    //  Institute for Human and Machine Cognition, http://www.ihmc.us/
+    //  CmapTools, Version 4.11, http://cmap.ihmc.us/
+    //  Modify by: CmapTools Developers, cmapsupport@ihmc.us
+    //  Date: 12/14/2006
+
+    var IE = 0;
+    var IE4PC = 0;
+    var NS = 0;
+    var GECKO = 0;
+
+    var openpopups = new Array();
+
+    if (document.all) {                 // Internet Explorer Detected
+	   IE = true;	
+    }
+    else if (document.layers) {         // Netscape Navigator Detected
+	   NS = true;	
+    }
+    else if (document.getElementById) { // Netscape 6 Detected
+       GECKO = true;
+    }
+    else {
+	   alert("Unrecognized Browser Detected::\nSorry, your browser is not compatible.");
+    }
+
+    if (IE)
+    {
+	   OS = navigator.platform;
+	   VER = new String(navigator.appVersion);
+	   VER = VER.substr (0, VER.indexOf(" "));
+	   if ((VER < 4.8) && (OS == "Win32")) 
+	   {
+	       IE4PC = 1;
+	   }
+    }
+
+    function handleResize() {
+	    location.reload();
+	    return false;
+    }
+
+
+    if ((NS) && (navigator.platform == "MacPPC")) {
+	   window.captureEvents (Event.RESIZE);
+	   window.onresize = handleResize;
+    }
+
+    function openResource(event, resourcePath, resourceName, resourceType)
+    {
+	   var newwindow;
+
+       // Resource MIMETypes are enumerated as follows: 
+       // cMap     = Undefined
+       // Image    = 0
+       // Video    = 1
+       // Text     = 2
+       // Audio    = 3
+
+       popDown();
+
+	   switch (resourceType) 
+	   {
+	    case 0:     //Image
+                    newwindow = window.open (resourcePath,resourceName);
+                    newwindow.onBlur = newwindow.focus()
+                    var text ='<center><img src=\"';
+                    text += resourcePath;
+                    text +='\"> </center>';
+             break;
+		
+	    case 1:  text   // Video
+		     newwindow = window.open (resourcePath,resourceName);
+                     newwindow.onBlur = newwindow.focus()
+                     var text ='<embed src=\"';
+                     text += resourcePath;
+                     text +='\" autostart=true> </embed> ';
+             break;
+
+	    case 2:      // Text or Unknown 
+		     newwindow = window.open(resourcePath,resourceName);
+                     newwindow.onBlur = newwindow.focus()
+              break;
+
+	    case 3:       // Audio
+                    newwindow = window.open (resourcePath,resourceName);
+                    newwindow.onBlur = newwindow.focus()
+                    var text ='<embed src=\"';
+                    text += resourcePath;
+                    text +='\" autoplay=true> </embed> ';
+             break;
+
+	    case 4:
+                    newwindow = window.open(resourcePath,resourceName);
+                    newwindow.onBlur = newwindow.focus()
+	     break;
+	    }
+        return;
+    }
+
+
+
+    function popUpEvt(event, popupName)
+    {
+	popDown();
+
+	if (GECKO)
+	{
+	    document.getElementById(popupName).style.left = event.layerX;
+	    document.getElementById(popupName).style.top = event.layerY;
+	    document.getElementById(popupName).style.background = "#B3B3B3";
+	    document.getElementById(popupName).style.visibility = "visible";
+	    openpopups.push(popupName);
+	}
+	else if (NS) 
+	{
+	    document.layers[popupName].moveTo (event.pageX, event.pageY);
+	    document.layers[popupName].bgColor = "#B3B3B3";
+	    document.layers[popupName].visibility = "show";
+	    openpopups.push(popupName);
+	}
+	else // if (IE)
+	{
+	    window.event.cancelBubble = true;
+	    if (!IE4PC) {
+		document.all[popupName].style.backgroundColor = "#B3B3B3";
+	    }	
+	    document.all[popupName].style.left = window.event.clientX + document.body.scrollLeft;
+	    document.all[popupName].style.top = window.event.clientY + document.body.scrollTop;
+	    document.all[popupName].style.visibility = "visible";
+	    openpopups[openpopups.length] = popupName;
+	}
+	return false;
+    }
+
+    function popDown()
+    {
+	var popupname;
+	
+	for (var i = 0; i < openpopups.length; i++) 
+	{
+	    popupname = new String (openpopups[i]);      
+	    if (GECKO) {
+		document.getElementById(popupname).style.visibility = "hidden";
+	    }
+	    else if (NS) {
+		document.layers[popupname].visibility = "hide";
+	    }
+	    else {
+		document.all[popupname].style.visibility = "hidden";
+	    }
+	}
+	openpopups = new Array();
+	return;
+    }
+
+    function popDownNoGecko() 
+    {
+	var popupname;
+	for (var i = 0; i < openpopups.length; i++) 
+	{
+	    popupname = new String (openpopups[i]);      
+	    if (GECKO) {
+           //  document.getElementById(popupname).style.visibility = "hidden"; 
+	        return;   // erased for test purposes
+	    }  
+	    else if (NS) {
+	        document.layers[popupname].visibility = "hide";
+	    }
+	    else {
+	        document.all[popupname].style.visibility = "hidden";
+	    }
+	}
+	openpopups = new Array();
+        return;
+    }
+  //-->
+  </script>
+</HEAD>
+<BODY bgcolor="#FFFFFF" leftmargin="0" topmargin="0">
+<noscript>
+  <table width=90% cellpadding=10>
+    <tr>
+      <td bgcolor=ff4447>
+        <font color=000000 size=+1 face="helvetica">
+        <h1>WARNING:</h1>
+        <b>JavaScript is turned OFF.  None of the links on this concept map will <br>
+           work until it is reactivated.
+          <p>
+            <a href="http://cmap.ihmc.us/docs/EnablingJavaScript.html">
+                            If you need help turning JavaScript On, click here.
+            </a>
+          </p>
+        </b>
+      </td>
+    </tr>
+  </table>
+Este Cmap, tiene información relacionada con: capitulo2, protestas frente al alza de impuestos mantener la base naval en cartagena, Junta central en sevilla, Parte 2: Antecedentes y precursores de la independencia se destacan personajes, Capitulo 2: Rompimiento de lazos con España (1781-1819) Parte 4: La patria boba (1810-1816), Napoleón despone a Fernando VII, protestas frente al alza de impuestos ejemplos Arrancado de carteles, Revoluciones Francesa, realistas ejemplos Santa marta, Estímulos inestabilidad Política, Fracaso Quito, Ec (1809), Junta central se disuelve en 1810, sevilla mantiene su lealtad a Fernando VII, revolución de los comuneros conformada por mestizos, causas crecimiento, Estímulos se forma Junta central, Socorro, santander con una asamblea popular o común (de ahí el nombre), personajes Antonio Nariño, es liberada poco despues esto produce cambios en la estructura social, causas Rivalidades entre criollos y europeos, Ejercito mixto y Atravieza los andes y gana la batalla de boyacá
+
+</noscript>
+
+<map name="index.html">
+</map>
+
+<center>
+      </td>
+    </tr>
+  </table>
+</center>
+</BODY>
+</HTML>
+
