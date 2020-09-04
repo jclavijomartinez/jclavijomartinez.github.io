@@ -9,14 +9,16 @@ la tarea de esta semana consistía en:  *subir, titular y comentar dos fotograf�
 
 Estas son mis fotografías:
 
+**Esfera Pública**
 <p align="center">
-  <img width="1920" height="1080" src="https://i.pinimg.com/originals/30/ab/6c/30ab6c1a569786ed5883cdbec4ad79e5.jpg">
+  <img width="720" height="1080" src="https://i.ytimg.com/vi/aMZOm1LYqes/maxresdefault.jpg">
 </p>
 
-######  Titulo. descripcion
+######  titulo. descripcion
 
+**Esfera Privadaa**
 <p align="center">
-  <img width="1920" height="1080" src="https://i.pinimg.com/originals/30/ab/6c/30ab6c1a569786ed5883cdbec4ad79e5.jpg">
+  <img width="720" height="1080" src="https://i.pinimg.com/originals/30/ab/6c/30ab6c1a569786ed5883cdbec4ad79e5.jpg">
 </p>
 
 ######  Titulo. descripcion
