@@ -18,7 +18,7 @@ Estas son mis fotografías:
 
 **Esfera Privadaa**
 <p align="center">
-  <!--  <img width="720" height="1080" src="https://i.pinimg.com/originals/30/ab/6c/30ab6c1a569786ed5883cdbec4ad79e5.jpg"> -->
+  <img src="https://raw.githubusercontent.com/jclavijomartinez/jclavijomartinez.github.io/gh-pages/images/wallpp.png" style="max-width:100%;">
 </p>
 
 #####  Título: cs:go. Es uno de mis videojuegos favoritos, este es un fondo de pantalla basado en los dos equipos del juego.
