@@ -3,12 +3,13 @@ body {
     width: 70%;
     background-color:#f2eecb;
 }
-#cabecera #logo
+
+nav ul, footer ul {
+    cabecera logo
 {
     width: 20px;
     vertical-align: middle;
 }
-nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
