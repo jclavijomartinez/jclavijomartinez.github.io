@@ -14,11 +14,11 @@ Estas son mis fotografías:
   <!-- <img width="720" height="1080" src="https://i.ytimg.com/vi/aMZOm1LYqes/maxresdefault.jpg"> -->
 </p>
 
-#####  Todos tenemos ropa. Para esta fotografía decidí preguntarme: ¿qué es algo que todos tengammos? la respuesta, después de mucho pensarlo fue: ropa, es una parte de nuestra identidad cultural y lo que le mostramos al mundo, en la foto se ve mi guardarropas
+#####  Título: ropa. Para esta fotografía decidí preguntarme: ¿qué es algo que todos tengamos? la respuesta, después de mucho pensarlo fue: ropa, es una parte de nuestra identidad cultural y lo que le mostramos al mundo, en la foto se ve mi guardarropas.
 
 **Esfera Privadaa**
 <p align="center">
-  <img width="720" height="1080" src="https://i.pinimg.com/originals/30/ab/6c/30ab6c1a569786ed5883cdbec4ad79e5.jpg">
+  <!--  <img width="720" height="1080" src="https://i.pinimg.com/originals/30/ab/6c/30ab6c1a569786ed5883cdbec4ad79e5.jpg"> -->
 </p>
 
-#####  Titulo. descripcion
+#####  Título: cs:go. Es uno de mis videojuegos favoritos, este es un fondo de pantalla basado en los dos equipos del juego.
