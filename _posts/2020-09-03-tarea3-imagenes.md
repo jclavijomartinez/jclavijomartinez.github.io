@@ -11,7 +11,7 @@ Estas son mis fotografías:
 
 **Esfera Pública**
 <p align="center">
-  <!-- <img width="720" height="1080" src="https://i.ytimg.com/vi/aMZOm1LYqes/maxresdefault.jpg"> -->
+  <img width="720" height="1280" src="https://raw.githubusercontent.com/jclavijomartinez/jclavijomartinez.github.io/gh-pages/images/IMG_0479.JPG">
 </p>
 
 #####  Título: ropa. Para esta fotografía decidí preguntarme: ¿qué es algo que todos tengamos? la respuesta, después de mucho pensarlo fue: ropa, es una parte de nuestra identidad cultural y lo que le mostramos al mundo, en la foto se ve mi guardarropas.
