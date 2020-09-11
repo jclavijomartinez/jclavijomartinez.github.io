@@ -7,7 +7,7 @@ last_modified_at:   2020-09-10 10:05:35 -0050
 ---
 Esta tarea consistía en leer el caítulo 7 del libro historia de Colombia y sus oligarquías escrito por: Antonio Caballero.
 
-Para ver mi resumen, pulsa <a href="/images/maparesumen2.md"> aquí </a> (es un mapa mental!) a continuación, respondo las preguntas de reflexión:
+Para ver mi resumen, pulsa <a href="/_posts/maparesumen2.md"> aquí </a> (es un mapa mental!) a continuación, respondo las preguntas de reflexión:
 
 **Reflexión: La historia de Colombia como se aprecia es contradictoria, con avances y retrocesos, por ello:
 Destaque un personaje –hombre o mujer- de Colombia que usted considere ejemplar en su historia, que haya hecho un aporte positivo al país (puede ser más allá del campo de la política), justifique.**
