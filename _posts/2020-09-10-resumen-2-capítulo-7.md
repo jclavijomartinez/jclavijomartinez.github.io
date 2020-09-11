@@ -12,7 +12,7 @@ Para ver mi resumen, pulsa <a href="/images/resumen2.jpg"> aquí </a> (es un map
 **Reflexión: La historia de Colombia como se aprecia es contradictoria, con avances y retrocesos, por ello:
 Destaque un personaje –hombre o mujer- de Colombia que usted considere ejemplar en su historia, que haya hecho un aporte positivo al país (puede ser más allá del campo de la política), justifique.**
 
-R = Uno de los personajes más influyentes de la historia nacional es Jaime garzón ya quea traves de su humor, logró empezar a concientizar al pueblo colombiano sobre las posibilidades de la participación política y el pensamiento crítico, la fuerza de entender 
+R = Uno de los personajes más influyentes de la historia nacional es Jaime garzón ya quea traves de su humor, logró empezar a concientizar al pueblo colombiano sobre las posibilidades de la participación política y el pensamiento crítico, la fuerza de entender que si todos nos unimos con mejores objetivos, Colombia podr´´ia ser un país mejor
 
 **Destaque un personaje de Colombia que usted considere negativo en el país, que ha dejado un legado malo para la nación (puede ser más allá del campo de la política). Justifique.**
 
