@@ -12,7 +12,7 @@ Para ver mi resumen, pulsa <a href="/_posts/imagenresumen2.md"> aquí </a> (es u
 **Reflexión: La historia de Colombia como se aprecia es contradictoria, con avances y retrocesos, por ello:
 Destaque un personaje –hombre o mujer- de Colombia que usted considere ejemplar en su historia, que haya hecho un aporte positivo al país (puede ser más allá del campo de la política), justifique.**
 
-R = Uno de los personajes más influyentes de la historia nacional es... ya que...
+R = Uno de los personajes más influyentes de la historia nacional es ya que...
 
 **Destaque un personaje de Colombia que usted considere negativo en el país, que ha dejado un legado malo para la nación (puede ser más allá del campo de la política). Justifique.**
 
