@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarea 4: Visita (virtual) al museo nacional de Colombia"
+title: "Tarea 5: Visita (virtual) al museo nacional de Colombia"
 date: 2020-09-17
 author: Juan Sebastián Clavijo Martínez
 last_modified_at:   2020-09-17 10:05:35 -0050
