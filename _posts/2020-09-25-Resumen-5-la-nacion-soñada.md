@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarea 5 Resumen 5: Intelectuales en tiempos de crisis"
+title: "Tarea 6 Resumen capítulo 5: Intelectuales en tiempos de crisis"
 date: 2020-08-21
 author: Juan Sebastián Clavijo Martínez
 last_modified_at:   2020-08-21 10:05:35 -0050
