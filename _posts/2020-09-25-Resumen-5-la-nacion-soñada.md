@@ -3,7 +3,7 @@ layout: post
 title: "Tarea 6 Resumen capítulo 5: Intelectuales en tiempos de crisis"
 date: 2020-08-21
 author: Juan Sebastián Clavijo Martínez
-last_modified_at:   2020-08-21 10:05:35 -0050
+last_modified_at:   2020-09-25 10:05:35 -0050
 ---
 # La tarea para esta semana era:
 Hacer un resumen del capítulo 5 del libro *La nación soñada violencia, liberalismo y democracia en Colombia* este resumen lo puedes ver ><
