@@ -6,7 +6,7 @@ author: Juan Sebastián Clavijo Martínez
 last_modified_at:   2020-09-25 10:05:35 -0050
 ---
 # La tarea para esta semana era:
-Hacer un resumen del capítulo 5 del libro *La nación soñada violencia, liberalismo y democracia en Colombia* este resumen lo puedes ver <a href="/images/resumen1/index3.html">aquí</a> (es un mapa mental!)
+Hacer un resumen del capítulo 5 del libro *La nación soñada violencia, liberalismo y democracia en Colombia* este resumen lo puedes ver <a href="/images/resumen3.html">aquí</a> (es un mapa mental!)
 
 #### también había que responder las siguientes preguntas: 
 1. ¿Cree usted que la democracia en Colombia posee más seguidores o detractores?
