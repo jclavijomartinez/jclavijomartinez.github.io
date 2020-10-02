@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarea 6 Resumen capítulo 5: Intelectuales en tiempos de crisis"
+title: "Tarea 6 Resumen capítulo 5 de la nacion soñada"
 date: 2020-09-25
 author: Juan Sebastián Clavijo Martínez
 last_modified_at:   2020-09-25 10:05:35 -0050
