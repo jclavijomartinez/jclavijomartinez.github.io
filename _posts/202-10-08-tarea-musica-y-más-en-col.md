@@ -25,4 +25,4 @@ Este albúm habla sobre varios temas, para mi los que se destacan son: Amor es e
 
 ### 3.	Recomiende un músico colombiano que sea de su preferencia y valga la pena conocer por su aporte (del género que le parezca), y presente una muestra de su obra. 
 
-Mi banda Colombiana recomendada es *los rolling ruanas* a finales del 2015 hicieron covers de canciones de los Beatles, Kiss y the rolling stones, estos tenpian la particularidad de que estaban adaptados al ritmo de la carranga, los covers convirtien a la banda en un fenómeno viral que ya ha hecho giras por Esrtados Unidos y europa, si quiere escuchar una de sus canciones originales esta <a href="https://www.youtube.com/watch?v=jwaNzvM2CZY">aquí</a>
+Mi banda Colombiana recomendada es *los rolling ruanas* a finales del 2015 hicieron covers de canciones de los Beatles, Kiss y the rolling stones, estos tenían la particularidad que estaban adaptados al ritmo de la carranga, los covers convirtien a la banda en un fenómeno viral que ya ha hecho giras por Esrtados Unidos y europa, si quiere escuchar una de sus canciones originales, hacer click <a href="https://www.youtube.com/watch?v=jwaNzvM2CZY">aquí</a>
