@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarea 4: resumen capitulo 7: Guerras y constituciones (o viceversa)"
+title: "Resumen capitulo 7: Guerras y constituciones (o viceversa)"
 date: 2020-09-10
 author: Juan Sebastián Clavijo Martínez
 last_modified_at:   2020-09-10 10:05:35 -0050
