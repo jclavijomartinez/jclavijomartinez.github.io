@@ -10,9 +10,9 @@ Para esta tarea había que leer el cuento _Espuma y nada más_ Escrito por Herna
 <p align="center">
   <img width="460" height="300" src="https://www.literatura.us/tellez/ht.jpg">
 </p>
-> Hernando Téllez, escritor del cuento
+##### Hernando Téllez, escritor del cuento
 
-### ¿Qué opinión le merece el cuento "Espuma y nada más" como pieza literaria y como retrato de un momento histórico de Colombia?
+### ¿Qué opinión le merece el cuento _Espuma y nada más_ como pieza literaria y como retrato de un momento histórico de Colombia?
 
 Este cuento me recordó una memoria de mi época en el colegio, en una de mis clases de lengua Castellana me acuerdo haber leido esa historia en uno de los libros de clase, me gustó bastante porque no esperaba el final y el suspenso de la historia me tuvo enganchado hasta el final. Es una pieza litearia bastante entretenida, precisamente porque desarrolla el suspenso hasta el final y es fácil de leer. Como retrato histórico me parece bastante acertado sobre la violencia en el país y más allá cómo afecta a gente del común.
 
