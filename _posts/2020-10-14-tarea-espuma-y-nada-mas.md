@@ -9,7 +9,7 @@ Para esta tarea había que leer el cuento _Espuma y nada más_ Escrito por Herna
 
 <p align="center">
   <img width="460" height="300" src="https://www.literatura.us/tellez/ht.jpg">
-  >Hernando Téllez, escritor del cuento
+  > Hernando Téllez, escritor del cuento
 </p>
 
 ### ¿Qué opinión le merece el cuento "Espuma y nada más" como pieza literaria y como retrato de un momento histórico de Colombia?
