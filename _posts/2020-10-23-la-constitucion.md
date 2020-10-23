@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tarea 8: La estructura de la constitución"
-date: 2020-08-27
+date: 2020-10-23
 author: Juan Sebastián Clavijo Martínez
 last_modified_at:   2020-10-23 10:05:35 -0050
 ---
