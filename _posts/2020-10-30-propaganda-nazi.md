@@ -9,7 +9,7 @@ last_modified_at:   2020-10-30 10:05:35 -0050
 La tarea de esta semana era: revisar los 11 principios de la Propaganda Nazi, impulsados por el Ministro de la Propaganda de Adolf Hitler, Joseph Goebbels, y presentar ejemplos de su aplicación histórica, en el pasado o en el presente, en Colombia o el mundo, revisando cada uno. 
 
 ![](https://petapixel.com/assets/uploads/2013/03/goebbals_scowling.jpg)
-#####Goebbels al enterarse que el fotografo que tomó esta imagen era judio
+##### Goebbels al enterarse que el fotografo que tomó esta imagen era judio
 
 Finalmente recapitular si se trata de un comportamiento de la comunicación política estratégica del pasado que asociamos a regímenes totalitarios como el Nazi, o que aún está presente eventualmente en los que suponemos son democráticos. Abajo dos links donde se puede encontrar información al respecto.
 
