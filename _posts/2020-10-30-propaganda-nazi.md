@@ -10,6 +10,6 @@ La tarea de esta semana era: revisar los 11 principios de la Propaganda Nazi, im
 
 he aquí los 11 principios de la propaganda y su aplicación en la historia:
 
-| Principio | Aplicacion |
-| :------------ |:---------------:| 
+| Principio | | Aplicacion |
+| :------------ |:---------------:| :---------------:| 
 |1. hola esto es una prueba|| y esto numeros 123456789|
