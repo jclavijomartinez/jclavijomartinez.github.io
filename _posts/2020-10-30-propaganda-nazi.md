@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarea:Principios de la propaganda nazi"
+title: "Tarea 9 Principios de la propaganda nazi"
 date: 2020-10-30
 author: Juan Sebastián Clavijo Martínez
 last_modified_at:   2020-10-30 10:05:35 -0050
