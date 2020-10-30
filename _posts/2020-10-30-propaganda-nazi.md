@@ -12,4 +12,4 @@ he aquí los 11 principios de la propaganda y su aplicación en la historia:
 
 | Principio | Aplicacion |
 | :------------ |:---------------:| 
-|1. hola esto es una prueba| y esto numeros 123456789|
+|1. hola esto es una prueba|| y esto numeros 123456789|
