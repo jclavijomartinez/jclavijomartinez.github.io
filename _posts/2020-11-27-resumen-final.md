@@ -8,7 +8,7 @@ last_modified_at:   2020-08-21 10:05:35 -0050
 
 Para este último resumen, se pedía leer el capítulo 14 y el epilogo del libro y comentar si considera que el futuro de Colombia es positivo o negativo, y si cree que la Constitución de 1991 podrá seguir siendo el marco que nos lleve a consolidar la paz, el desarrollo y la justicia para todos.
 
-Puedes encontrar el resumen <a href="/finalconstit/final.html.jpg">pulsando aquí</a> (un mapa mental en 4k!)
+Puedes encontrar el resumen <a href="/finalconstit/FINAL.html">pulsando aquí</a> (un mapa mental en 4k!)
 
 #### ¿ el futuro de Colombia es positivo o negativo?
 
